@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ibrahim
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Nextjs with Typescript
+- 👋 Hi, I’m Ibrahim
+- 👀 I’m a web developer
+- 🌱 I’m currently working on an ecommerce project
 - 💞️ I’m looking to collaborate on Mern stack projects
-- 📫 How to reach me ibrahimtoru@gmail.com
+- 📫 you can reach me at ibrahimtoru@gmail.com
 
 <!---
 ibrahimtoru/ibrahimtoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
